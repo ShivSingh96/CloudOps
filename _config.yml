@@ -5,6 +5,9 @@ show_downloads: false
 include: ["assets/css/style.css"]
 exclude: ["README.md", "LICENSE"]
 #baseurl: "/CloudOps"  # Change to your repo name if different
-url: "https://shivsingh96.github.io"
+#url: "https://shivsingh96.github.io"
+show_excerpts: true
+future: true
+
 
 

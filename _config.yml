@@ -1,3 +1,10 @@
-theme: minima
-title: CloudOps
+# theme: minima
+# title: CloudOps
+# description: A blog on Cloud & DevOps
+remote_theme: pages-themes/cayman@v0.2.0
+title: CloudOps 🚀
 description: A blog on Cloud & DevOps
+show_downloads: false
+#google_analytics: G-XXXXXXXXXX # (Optional: Add your tracking ID if needed)
+include: ["assets/css/style.css"]
+

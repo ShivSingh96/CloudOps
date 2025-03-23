@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: CloudOps
-description: A blog on Cloud & DevOps
+# title: CloudOps
+# description: A blog on Cloud & DevOps
 show_downloads: false
 include: ["assets/css/style.css"]
 exclude: ["README.md", "LICENSE"]

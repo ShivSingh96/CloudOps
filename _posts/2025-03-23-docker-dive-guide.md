@@ -2,8 +2,10 @@
 layout: post
 title: "Optimizing Docker Images with Dive"
 date: 2025-03-23
-categories: Docker Optimization
+categories: [Docker, Optimization]
+description: "A detailed guide on analyzing and optimizing Docker images using Dive."
 ---
+
 Script: Exploring and Optimizing Docker Images with Dive
 [Intro - Hook]
 🎬 [Background music fades in]

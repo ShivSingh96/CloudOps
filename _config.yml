@@ -1,3 +1,33 @@
-theme: minima
+theme: minimal-mistakes-jekyll
 title: CloudOps
 description: A blog on Cloud & DevOps
+
+# Minimal Mistakes theme settings
+author:
+  name: Shiv Singh
+  avatar: /assets/images/avatar.png
+  bio: "Cloud & DevOps Enthusiast"
+  location: "Your Location"
+  email: your-email@example.com
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/yourusername"
+
+# Social sharing settings
+twitter_username: yourusername
+github_username: yourusername
+
+# Enable comments (optional)
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
+
+# Other settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

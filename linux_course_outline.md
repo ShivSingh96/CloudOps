@@ -1,5 +1,3 @@
-https://app--wander-wise-ai-ecab249e.base44.app
-
 # Linux for DevOps & Cloud Engineers - Course Outline
 
 ## Table of Contents
